@@ -1,4 +1,5 @@
-# Undersampling vs. Oversampling
+# Undersampling & Oversampling w.r.t before/after Train-Test split
+
 Explore the affects of Undersampling vs Oversampling before & after Train-Test split w.r.t to performance metrics.
 
 
